@@ -16,3 +16,6 @@ node_modules/
 
 # vscode
 .vscode/
+
+size-plugin.json
+build/
