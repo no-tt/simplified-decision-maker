@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "aaa",
+  "name": "simplified-decision-maker",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -21,6 +21,7 @@
     "preact-cli": "^3.0.0-rc.6"
   },
   "dependencies": {
-    "preact": "^10.2.0"
+    "preact": "^10.2.0",
+    "preact-i18n": "^1.4.2"
   }
 }

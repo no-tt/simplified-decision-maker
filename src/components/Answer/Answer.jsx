@@ -10,12 +10,9 @@ const Answer = ({ onButtonClick, initialAnswer, answerCount }) => {
   useEffect(() => {
     if (answerCount === 1) {
       setAnswers([initialAnswer]);
-      return;
+    } else {
+      setAnswers((a) => [...a, !initialAnswer]);
     }
-    setAnswers((a) => [
-      ...a,
-      answerCount % 2 === 0 ? !initialAnswer : initialAnswer,
-    ]);
   }, [initialAnswer, answerCount]);
 
   return (
