@@ -7009,6 +7009,13 @@ react-refresh@0.8.2:
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.8.2.tgz#24bb0858eac92b0d7b0dd561747f0c9fd6c60327"
   integrity sha512-n8GXxo3DwM2KtFEL69DAVhGc4A1THn2qjmfvSo3nze0NLCoPbywazeJPqdp0RdSGLmyhQzeyA+XPXOobbYlkzg==
 
+react-rough-notation@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/react-rough-notation/-/react-rough-notation-0.0.11.tgz#692a774c46411ed1182b7edd8d9f5753fa0c290b"
+  integrity sha512-MQ7gfYBS/ECMmmJWwjGQkkN63XSp36m7QvJ/4Riw6zllyrBLIZ8Gz2gA+PUMPmOiHl6tvKxw/xka55jkbDXCrA==
+  dependencies:
+    rough-notation "0.3.1"
+
 "readable-stream@1 || 2", readable-stream@^2.0.0, readable-stream@^2.0.1, readable-stream@^2.0.2, readable-stream@^2.1.5, readable-stream@^2.2.2, readable-stream@^2.3.3, readable-stream@^2.3.6, readable-stream@~2.3.6:
   version "2.3.7"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.7.tgz#1eca1cf711aef814c04f62252a36a62f6cb23b57"
@@ -7356,6 +7363,16 @@ rollup@^1.31.1:
     "@types/estree" "*"
     "@types/node" "*"
     acorn "^7.1.0"
+
+rough-notation@0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/rough-notation/-/rough-notation-0.3.1.tgz#6f3865f43b0b63c3118f3be18d4c3267c30b50d3"
+  integrity sha512-WrUTmZa1CxuW2KdghcppZ7WBk7An/ty1bQ5kpYwl5YtXSBCEINa6NO7wx+pViO9TwlMqmIZuRxCJiWtYcIOK0w==
+
+rough-notation@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/rough-notation/-/rough-notation-0.4.0.tgz#6f97324cb50fc91ec8064219253aa2528a69210f"
+  integrity sha512-hDgn9qMIxWnfY+WWjt30aLMtDHR13H8r/NI3EQNdJiEFAzpklH5nKg4eH/thpxCWTYzyg8ueMsKIfz9MzOBQ4Q==
 
 run-async@^2.4.0:
   version "2.4.1"

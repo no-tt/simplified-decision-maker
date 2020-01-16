@@ -6,21 +6,9 @@
 
 .answer__text {
   position: relative;
-  margin-bottom: 40px;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   font-size: 1.4rem;
   padding: 0 10px;
-}
-
-.answer__text--old:before {
-  position: absolute;
-  content: "";
-  left: 0;
-  top: 50%;
-  right: 0;
-  border-top: 2px solid;
-  border-color: inherit;
-  transform: rotate(-20deg);
 }
 
 .answer__button {
