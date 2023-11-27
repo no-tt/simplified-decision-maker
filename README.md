@@ -2,7 +2,7 @@
 
 Are you having hard times taking a decision at turning points of your existence ?
 
-Don't worry homie. Here's the [SDM (Simplified Decision Maker)](https://tictactaw.github.io/simplified-decision-maker/) to help you moving forward !
+Don't worry homie. Here's the [SDM (Simplified Decision Maker)](https://simplified-decision-maker.vercel.app/) to help you moving forward !
 With its dead simple interface, ~hear what you want to hear~, read what you want to read for every choice you don't want to take by yourself.
 
 _(TODO: Remove the striked text once the text-to-speech module is ready.)_
